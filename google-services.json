@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082442397965",
+    "project_id": "altesdigital",
+    "storage_bucket": "altesdigital.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082442397965:android:ad2e1644ea7cb6cd14d844",
+        "android_client_info": {
+          "package_name": "com.altesdigital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmcmnVgVOQExqHGkXTSF0kPcVid6xHwRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
